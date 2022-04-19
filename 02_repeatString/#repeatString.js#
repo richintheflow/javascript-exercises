@@ -1,0 +1,7 @@
+const repeatString = function(hey) {
+  // return hey.repeat(3);
+  return hey.repeat(10);
+};
+repeatString("hey")
+// Do not edit below this line
+module.exports = repeatString;
